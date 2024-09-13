@@ -2,7 +2,7 @@
 # Welcome to [Sarmila's](https://github.com/SarmilaShahid/) profile! <a href="https://github.com/SarmilaShahid/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...
-* Future Data Scientist 
+* Future software Engineer
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
@@ -11,7 +11,7 @@
 
 📬 How to reach me: [sarmilashahidoffical@gmail.com](mailto:sarmilashahidoffcial@gmail.com)<br>
 💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
+ As a Technology Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
 
 
