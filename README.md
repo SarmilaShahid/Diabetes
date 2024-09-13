@@ -24,7 +24,7 @@
 
 _(click the button!)_
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sarmilashahidofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarmilaShahid) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sarmilashahidofficial@gmail.com)
 
 ------------------------------------------------------------------------------------------------------
 Profile Details
